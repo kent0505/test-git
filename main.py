@@ -1,1 +1,2 @@
 print('otaw')
+print('komow')
