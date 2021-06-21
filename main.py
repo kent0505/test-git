@@ -1,2 +1,2 @@
 print('otaw')
-print('komow')
+print('otaw2')
